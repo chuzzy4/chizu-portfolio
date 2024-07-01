@@ -6,6 +6,7 @@ import classes from './Projects.module.css';
 import github from '../images/github.png';
 import axnf from '../images/axnf.jpeg';
 import fl from '../images/cos.png';
+import f2 from '../images/ad.png';
 // Web projects
 const webItem = [
   {
@@ -25,6 +26,15 @@ const webItem = [
     image: fl,
     color: '#D3D3D3',
     githubLink: 'https://github.com/chuzzy888/confession-site.git'
+  },
+  {
+    link: 'https://audionix.vercel.app/',
+    title: 'Audionix',
+    techStack: 'Tech Stack: React js, Tailwind css, javascript, TypeScript, Node js, Express js',
+    desc: 'A live audio app for to host shows and join discussions ',
+    image: f2,
+    color: '#D3D3D3',
+    githubLink: 'https://github.com/chuzzy888/Audionix.git'
   }
 ];
 
