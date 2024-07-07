@@ -20,7 +20,7 @@ class App extends Component {
                 type='button'
                 data-toggle='collapse'
                 data-target='#navbarSupportedContent'
-                style={{ zIndex: '1' }}
+                style={{ zIndex: '1', backgroundColor: 'white' }}
               >
                 <span className='navbar-toggler-icon'></span>
               </button>
