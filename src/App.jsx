@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import { BrowserRouter as Router } from 'react-router-dom';
 import Sidebar from './components/sidebar/Sidebar.jsx';
+import { HiOutlineMenuAlt3 } from 'react-icons/hi';
 import About from './components/about/About.jsx';
 import Education from './components/Education/Education.jsx';
 import Interest from './components/skills/Interest.jsx';
@@ -20,9 +21,9 @@ class App extends Component {
                 type='button'
                 data-toggle='collapse'
                 data-target='#navbarSupportedContent'
-                style={{ zIndex: '1', backgroundColor: 'white' }}
+                style={{ zIndex: '1' }}
               >
-                <span className='navbar-toggler-icon'></span>
+                <HiOutlineMenuAlt3 style={{ fontSize: '1.5rem', color: 'white' }} />{' '}
               </button>
               <div className='collapse navbar-collapse' id='navbarSupportedContent'>
                 <Sidebar />
