@@ -7,6 +7,7 @@ import github from '../images/github.png';
 import axnf from '../images/axnf.jpeg';
 import fl from '../images/cos.png';
 import f2 from '../images/ad.png';
+import JBM from '../images/JBM.png';
 // Web projects
 const webItem = [
   {
@@ -16,16 +17,16 @@ const webItem = [
     desc: 'Axion is an e-commerce app for selling mattress online still under development..',
     image: axnf,
     color: '#D3D3D3',
-    githubLink: 'https://github.com/chuzzy888/AxionEcommerce.git'
+    githubLink: 'https://github.com/chuzzy888/axionfoam-nigeria.git'
   },
   {
-    link: 'https://confessionsite.netlify.app/',
-    title: 'Confess.io',
+    link: 'https://jobme1.netlify.app/',
+    title: 'JOBME',
     techStack: 'Tech Stack: React js, Tailwind css, javascript,firebase',
     desc: 'a confession site where users can share secrets and make confessions ',
-    image: fl,
+    image: JBM,
     color: '#D3D3D3',
-    githubLink: 'https://github.com/chuzzy888/confession-site.git'
+    githubLink: 'https://github.com/chuzzy888/JobMe.git'
   },
   {
     link: 'https://audionix.vercel.app/',
@@ -35,6 +36,15 @@ const webItem = [
     image: f2,
     color: '#D3D3D3',
     githubLink: 'https://github.com/chuzzy888/Audionix.git'
+  },
+  {
+    link: 'https://confessionsite.netlify.app/',
+    title: 'Confess.io',
+    techStack: 'Tech Stack: React js, Tailwind css, javascript,firebase',
+    desc: 'a confession site where users can share secrets and make confessions ',
+    image: fl,
+    color: '#D3D3D3',
+    githubLink: 'https://github.com/chuzzy888/confession-site.git'
   }
 ];
 
