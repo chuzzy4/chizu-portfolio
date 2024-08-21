@@ -36,16 +36,16 @@ const webItem = [
     image: f2,
     color: '#D3D3D3',
     githubLink: 'https://github.com/chuzzy888/Audionix.git'
-  },
-  {
-    link: 'https://confessionsite.netlify.app/',
-    title: 'Confess.io',
-    techStack: 'Tech Stack: React js, Tailwind css, javascript,firebase',
-    desc: 'a confession site where users can share secrets and make confessions ',
-    image: fl,
-    color: '#D3D3D3',
-    githubLink: 'https://github.com/chuzzy888/confession-site.git'
   }
+  // {
+  //   link: 'https://confessionsite.netlify.app/',
+  //   title: 'Confess.io',
+  //   techStack: 'Tech Stack: React js, Tailwind css, javascript,firebase',
+  //   desc: 'a confession site where users can share secrets and make confessions ',
+  //   image: fl,
+  //   color: '#D3D3D3',
+  //   githubLink: 'https://github.com/chuzzy888/confession-site.git'
+  // }
 ];
 
 const androidAppItems = [];
