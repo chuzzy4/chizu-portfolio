@@ -31,7 +31,7 @@ export default function Sidebar() {
       component: linkedin,
       href: 'http://www.linkedin.com/in/okpala-chizuruoke-9a757b266'
     },
-   
+
     {
       component: instagram,
       href: 'https://www.instagram.com/chuzzypraise?igsh=MWk3MHVndTVwcnhxZw=='
@@ -72,7 +72,7 @@ export default function Sidebar() {
           target='_blank'
           className='fa fa-envelope'
         ></a>
-        &nbsp;chizupraie31@gmail.com
+        &nbsp;chizupraise31@gmail.com
       </p>
 
       <ul className='sidebar-nav'>

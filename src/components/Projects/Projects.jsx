@@ -8,6 +8,7 @@ import axnf from '../images/axnf.jpeg';
 import fl from '../images/cos.png';
 import f2 from '../images/ad.png';
 import JBM from '../images/JBM.png';
+import stc from '../images/stc.png';
 // Web projects
 const webItem = [
   {
@@ -36,16 +37,16 @@ const webItem = [
     image: f2,
     color: '#D3D3D3',
     githubLink: 'https://github.com/chuzzy888/Audionix.git'
+  },
+  {
+    link: 'https://postit-bice.vercel.app/',
+    title: 'POSTIT',
+    techStack: 'Tech Stack: React js, Tailwind css, Typescript,firebase',
+    desc: 'a web blog application ',
+    image: stc,
+    color: '#D3D3D3',
+    githubLink: 'https://github.com/chuzzy888/POSTIT-.git'
   }
-  // {
-  //   link: 'https://confessionsite.netlify.app/',
-  //   title: 'Confess.io',
-  //   techStack: 'Tech Stack: React js, Tailwind css, javascript,firebase',
-  //   desc: 'a confession site where users can share secrets and make confessions ',
-  //   image: fl,
-  //   color: '#D3D3D3',
-  //   githubLink: 'https://github.com/chuzzy888/confession-site.git'
-  // }
 ];
 
 const androidAppItems = [];

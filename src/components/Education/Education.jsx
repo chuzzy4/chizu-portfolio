@@ -44,9 +44,9 @@ class Education extends Component {
                           <b>wiibi.org</b>
                         </a>{' '}
                         <i>
-                          (wiibi is a  technology startup in the real estate industry that is
-                          building tools and products to simplify house hunting and managing of property remotely 
-                       )
+                          (wiibi is a technology startup in the real estate industry that is
+                          building tools and products to simplify house hunting and managing of
+                          property remotely )
                         </i>{' '}
                         and boosting my professional skills.
                       </p>
@@ -66,10 +66,10 @@ class Education extends Component {
                     </div>
                     <div className={classes.label}>
                       <h2>
-                        Undergraduate at National Open University <span></span>
+                        Undergraduate at West Midlands Open University <span></span>
                       </h2>
                       <p>
-                       Currently studying computer science at (NOUN) National Open University 
+                        Currently studying computer science at (WMOU) West Midlands Open University
                       </p>
                     </div>
                   </article>
@@ -87,11 +87,11 @@ class Education extends Component {
                     </div>
                     <div className={classes.label}>
                       <h2>
-                        Secondary  Education <span>2020-2022</span>
+                        Secondary Education <span>2020-2022</span>
                       </h2>
                       <p>
-                        I have completed my secondary education from ABS INTERNATIONAL SCHOOL orile iganmu lagos state with major subjects as
-                        Physics,Chemistry & Maths .{' '}
+                        I have completed my secondary education from ABS INTERNATIONAL SCHOOL orile
+                        iganmu lagos state with major subjects as Physics,Chemistry & Maths .{' '}
                       </p>
                     </div>
                   </article>
