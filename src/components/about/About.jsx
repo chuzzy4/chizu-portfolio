@@ -18,16 +18,16 @@ class About extends Component {
         <h2 className={classes.heading}>Who Am I?</h2>
         <div className={classes.About}>
           <p>
-            Hi! My name is <b>OKPALA CHIZU PRAISE</b>. I am a passionate developer having experience in{' '}
-            <b>Frontend</b>  development complemented by backend expertise and a computer science undergraduate
-            I'm currently working at{' '}
+            Hi! My name is <b>OKPALA CHIZU PRAISE</b>. I am a passionate developer having experience
+            in <b>Frontend </b> development complemented by backend expertise and a computer science
+            undergraduate I'm currently working at{' '}
             <b>
               <a className={classes.link} target='_blank' href='https://wiibi.org/'>
                 Wiibi.org
               </a>
             </b>{' '}
-            as a <b>FrontEnd Developer .</b> I am much interested in developing new things
-            which excite me a lot. :)
+            as a <b>Software Developer .</b> I am much interested in developing new things which
+            excite me a lot. :)
           </p>
           <p className={classes.br}>
             I love exploring new technologies and being a practitioner, I like to stay on top of

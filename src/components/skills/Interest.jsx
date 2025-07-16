@@ -41,9 +41,8 @@ export default function Interest() {
         <div className={classes.app}>
           <h3>Web Development</h3>
           <p>
-            Javascript/ Typescript, HTML/ CSS, ReactJs, Next.js,  Tailwind
-            CSS, UI Libraries,Node js (React-Bootstrap,  Shadcn UI), Redux Toolkit.
-            
+            Javascript/ Typescript, HTML/ CSS, ReactJs, Next.js, Tailwind CSS, UI Libraries,Node js
+            (React-Bootstrap, Shadcn UI), Redux Toolkit.
           </p>
         </div>
         {/* </ScrollAnimation>
@@ -57,8 +56,8 @@ export default function Interest() {
         <div className={classes.other}>
           <h3>Expanded Expertise</h3>
           <p>
-            Git, GitHub, Frontend System Design,  Node.js,Express js,firebase ,
-              supabase, Open Source Contribution.
+            Git, GitHub, Frontend System Design,Mongo Db, Node.js,Express js,firebase , supabase,
+            Open Source Contribution.
           </p>
         </div>
         {/* </ScrollAnimation> */}

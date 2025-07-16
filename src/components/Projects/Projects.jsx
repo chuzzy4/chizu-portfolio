@@ -5,6 +5,7 @@ import Tilt from 'react-parallax-tilt';
 import classes from './Projects.module.css';
 import github from '../images/github.png';
 import axnf from '../images/axnf.jpeg';
+import tiim from '../images/sdf.png';
 import fl from '../images/cos.png';
 import f2 from '../images/ad.png';
 import JBM from '../images/JBM.png';
@@ -15,11 +16,21 @@ const webItem = [
     link: 'https://axionfoam.com/',
     title: 'Axion',
     techStack: 'Tech Stack: React js, bootstrap, javascript, node js ,microsoft sql',
-    desc: 'Axion is an e-commerce app for selling mattress online still under development..',
+    desc: 'Axion is an e-commerce app for selling mattress online',
     image: axnf,
     color: '#D3D3D3',
     githubLink: 'https://github.com/chuzzy888/axionfoam-nigeria.git'
   },
+  {
+    link: 'https://tiimbooktu.art/',
+    title: 'Tiimbooktu',
+    techStack: 'Tech Stack: React js, tailwind, javascript.',
+    desc: 'Tiimbooktu is an artwork shop for selling artworks',
+    image: tiim,
+    color: '#D3D3D3',
+    githubLink: 'https://github.com/chuzzy4/timbooktu.git'
+  },
+
   {
     link: 'https://jobme1.netlify.app/',
     title: 'JOBME',
@@ -37,16 +48,16 @@ const webItem = [
     image: f2,
     color: '#D3D3D3',
     githubLink: 'https://github.com/chuzzy888/Audionix.git'
-  },
-  {
-    link: 'https://postit-bice.vercel.app/',
-    title: 'POSTIT',
-    techStack: 'Tech Stack: React js, Tailwind css, Typescript,firebase',
-    desc: 'a web blog application ',
-    image: stc,
-    color: '#D3D3D3',
-    githubLink: 'https://github.com/chuzzy888/POSTIT-.git'
   }
+  // {
+  //   link: 'https://postit-bice.vercel.app/',
+  //   title: 'POSTIT',
+  //   techStack: 'Tech Stack: React js, Tailwind css, Typescript,firebase',
+  //   desc: 'a web blog application ',
+  //   image: stc,
+  //   color: '#D3D3D3',
+  //   githubLink: 'https://github.com/chuzzy888/POSTIT-.git'
+  // }
 ];
 
 const androidAppItems = [];

@@ -91,7 +91,7 @@ class Education extends Component {
                       </h2>
                       <p>
                         I have completed my secondary education from ABS INTERNATIONAL SCHOOL orile
-                        iganmu lagos state with major subjects as Physics,Chemistry & Maths .{' '}
+                        iganmu lagos state .
                       </p>
                     </div>
                   </article>
@@ -110,7 +110,7 @@ class Education extends Component {
                     </div>
                     <div className={classes.label}>
                       <h2>Internship</h2>
-                      <p>Completed three month Internship in web devlopment with Wifi-combat</p>
+                      <p>Completed three month Internship at Sycamore (Frontend developer)</p>
                     </div>
                     <div className={classes.timeline_entry_inner}>
                       <div className={classes.timeline_icon_3 || classes.color_none}></div>
