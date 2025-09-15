@@ -10,11 +10,41 @@ import fl from '../images/cos.png';
 import f2 from '../images/ad.png';
 import JBM from '../images/JBM.png';
 import stc from '../images/stc.png';
+import sc3 from '../images/sc3.png';
+import sc2 from '../images/sc2.png';
+import sc1 from '../images/sc1.png';
 // Web projects
 const webItem = [
   {
+    link: 'https://axion-suites.vercel.app/',
+    title: 'Axion Suites',
+    techStack: 'Tech Stack: React js, bootstrap, javascript, node js ,microsoft sql',
+    desc: 'Axion is an e-commerce app for selling mattress online',
+    image: sc1,
+    color: '#D3D3D3',
+    githubLink: 'https://github.com/chuzzy4/axion-suites.git'
+  },
+  {
+    link: 'https://tapp-sm-client.vercel.app/',
+    title: 'TAPP NFC',
+    techStack: 'Tech Stack: React js, bootstrap, javascript, node js ,microsoft sql',
+    desc: 'Axion is an e-commerce app for selling mattress online',
+    image: sc2,
+    color: '#D3D3D3',
+    githubLink: 'https://github.com/chuzzy4/Tapp-SM-Client.git'
+  },
+  {
+    link: 'https://axion-group.vercel.app/',
+    title: 'Axion Group',
+    techStack: 'Tech Stack: React js, bootstrap, javascript, node js ,microsoft sql',
+    desc: 'Axion is an e-commerce app for selling mattress online',
+    image: sc3,
+    color: '#D3D3D3',
+    githubLink: 'https://github.com/chuzzy4/AxionGroup.git'
+  },
+  {
     link: 'https://axionfoam.com/',
-    title: 'Axion',
+    title: 'Axion Foams',
     techStack: 'Tech Stack: React js, bootstrap, javascript, node js ,microsoft sql',
     desc: 'Axion is an e-commerce app for selling mattress online',
     image: axnf,
